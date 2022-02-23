@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @tylerxjarvis, I'm a Power Systems/SCADA Technician who specialises in Geospatial Applications, Monitoring & Security! 
-- 🌱 I’m currently learning Python!
+- 👋  Hi! I'm a SCADA Systems Technician who specialises with specialities in GIS, Monitoring and Power Systems applications!
 
 <!---
 tylerxjarvis/tylerxjarvis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
